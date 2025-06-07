@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/finzas-dashboard-/static/css/main.cd8e1cbe.css",
-    "main.js": "/finzas-dashboard-/static/js/main.4aba90ba.js",
+    "main.js": "/finzas-dashboard-/static/js/main.af4c01e4.js",
     "static/js/453.f769c0ae.chunk.js": "/finzas-dashboard-/static/js/453.f769c0ae.chunk.js",
     "index.html": "/finzas-dashboard-/index.html",
     "main.cd8e1cbe.css.map": "/finzas-dashboard-/static/css/main.cd8e1cbe.css.map",
-    "main.4aba90ba.js.map": "/finzas-dashboard-/static/js/main.4aba90ba.js.map",
+    "main.af4c01e4.js.map": "/finzas-dashboard-/static/js/main.af4c01e4.js.map",
     "453.f769c0ae.chunk.js.map": "/finzas-dashboard-/static/js/453.f769c0ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd8e1cbe.css",
-    "static/js/main.4aba90ba.js"
+    "static/js/main.af4c01e4.js"
   ]
 }
